@@ -1,0 +1,23 @@
+[package]
+name = "number-cross-4"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "get_possible_rows"
+path = "bins/get_possible_rows.rs"
+
+[dependencies]
+
+dioxus = { version = "0.5", features = ["web", "router"] }
+
+# Debug
+tracing = "0.1.40"
+tracing-subscriber = "0.3"
+env_logger = "0.11.3"
+dioxus-logger = "0.5.0"
+serde = { version = "1.0.200", features = ["derive"] }
+serde_json = "1.0.116"
+uuid = { version = "1.8.0", features = ["v4", "v8"] }
+getrandom = { version = "0.2", features = ["js"] }
+lazy_static = "1.4.0"
