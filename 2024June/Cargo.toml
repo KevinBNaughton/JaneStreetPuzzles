@@ -1,0 +1,19 @@
+[package]
+name = "altered-states-2"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "utils"
+path = "bins/utils.rs"
+
+[dependencies]
+dioxus = { version = "0.5", features = ["web", "router"] }
+lazy_static = "1.4.0"
+num-format = "0.4.4"
+tracing = "0.1.40"
+tracing-subscriber = "0.3"
+env_logger = "0.11.3"
+dioxus-logger = "0.5.0"
+serde = { version = "1.0.200", features = ["derive"] }
+serde_json = "1.0.116"

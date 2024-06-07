@@ -1,0 +1,202 @@
+[
+    {
+        "name": "ALABAMA",
+        "population": 5024279
+    },
+    {
+        "name": "ALASKA",
+        "population": 733391
+    },
+    {
+        "name": "ARIZONA",
+        "population": 7151502
+    },
+    {
+        "name": "ARKANSAS",
+        "population": 3011524
+    },
+    {
+        "name": "CALIFORNIA",
+        "population": 39538223
+    },
+    {
+        "name": "COLORADO",
+        "population": 5773714
+    },
+    {
+        "name": "CONNECTICUT",
+        "population": 3605944
+    },
+    {
+        "name": "DELAWARE",
+        "population": 989948
+    },
+    {
+        "name": "FLORIDA",
+        "population": 21538187
+    },
+    {
+        "name": "GEORGIA",
+        "population": 10711908
+    },
+    {
+        "name": "HAWAII",
+        "population": 1455271
+    },
+    {
+        "name": "IDAHO",
+        "population": 1839106
+    },
+    {
+        "name": "ILLINOIS",
+        "population": 12812508
+    },
+    {
+        "name": "INDIANA",
+        "population": 6785528
+    },
+    {
+        "name": "IOWA",
+        "population": 3190369
+    },
+    {
+        "name": "KANSAS",
+        "population": 2937880
+    },
+    {
+        "name": "KENTUCKY",
+        "population": 4505836
+    },
+    {
+        "name": "LOUISIANA",
+        "population": 4657757
+    },
+    {
+        "name": "MAINE",
+        "population": 1362359
+    },
+    {
+        "name": "MARYLAND",
+        "population": 6177224
+    },
+    {
+        "name": "MASSACHUSETTS",
+        "population": 7029917
+    },
+    {
+        "name": "MICHIGAN",
+        "population": 10077331
+    },
+    {
+        "name": "MINNESOTA",
+        "population": 5706494
+    },
+    {
+        "name": "MISSISSIPPI",
+        "population": 2961279
+    },
+    {
+        "name": "MISSOURI",
+        "population": 6154913
+    },
+    {
+        "name": "MONTANA",
+        "population": 1084225
+    },
+    {
+        "name": "NEBRASKA",
+        "population": 1961504
+    },
+    {
+        "name": "NEVADA",
+        "population": 3104614
+    },
+    {
+        "name": "NEWHAMPSHIRE",
+        "population": 1377529
+    },
+    {
+        "name": "NEWJERSEY",
+        "population": 9288994
+    },
+    {
+        "name": "NEWMEXICO",
+        "population": 2117522
+    },
+    {
+        "name": "NEWYORK",
+        "population": 20201249
+    },
+    {
+        "name": "NORTHCAROLINA",
+        "population": 10439388
+    },
+    {
+        "name": "NORTHDAKOTA",
+        "population": 779094
+    },
+    {
+        "name": "OHIO",
+        "population": 11799448
+    },
+    {
+        "name": "OKLAHOMA",
+        "population": 3959353
+    },
+    {
+        "name": "OREGON",
+        "population": 4237256
+    },
+    {
+        "name": "PENNSYLVANIA",
+        "population": 13002700
+    },
+    {
+        "name": "RHODEISLAND",
+        "population": 1097379
+    },
+    {
+        "name": "SOUTHCAROLINA",
+        "population": 5118425
+    },
+    {
+        "name": "SOUTHDAKOTA",
+        "population": 886667
+    },
+    {
+        "name": "TENNESSEE",
+        "population": 6910840
+    },
+    {
+        "name": "TEXAS",
+        "population": 29145505
+    },
+    {
+        "name": "UTAH",
+        "population": 3271616
+    },
+    {
+        "name": "VERMONT",
+        "population": 643077
+    },
+    {
+        "name": "VIRGINIA",
+        "population": 8631393
+    },
+    {
+        "name": "WASHINGTON",
+        "population": 7705281
+    },
+    {
+        "name": "WESTVIRGINIA",
+        "population": 1793716
+    },
+    {
+        "name": "WISCONSIN",
+        "population": 5893718
+    },
+    {
+        "name": "WYOMING",
+        "population": 576851
+    }
+]
